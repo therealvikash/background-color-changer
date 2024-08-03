@@ -1,6 +1,6 @@
-# React App with Tailwind CSS
+# Background Color Changer
 
-## React with Vite
+## React with Vite & Tailwind CSS
 |Field|    Value   |
 |-----|------------|
 |Title|React Basic |
